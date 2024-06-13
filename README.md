@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YousefDewidar
+- 👋 Hi, I’m @YousefDewidar | Computer engineer
 - 👀 I’m interested in mobile application development
 - 🌱 I’m currently learning Flutter framework
 - 💞️ I’m looking to collaborate on mobile application jops 
