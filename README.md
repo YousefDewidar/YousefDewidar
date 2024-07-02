@@ -1,11 +1,9 @@
 
-<!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b>Yousef Dewidar</b>
         </samp>
 </h3>
-
 
 <p align="center"> 
     <br>
@@ -27,12 +25,10 @@
 </p>
 <br />
 
-<!-- About Section -->
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
+
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: ymahmoud1213@gmail.com<br/><br/>
@@ -53,5 +49,6 @@
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
+<br/>
 <br/>
 
