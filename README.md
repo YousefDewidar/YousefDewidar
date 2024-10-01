@@ -16,9 +16,6 @@
  <a href="https://www.linkedin.com/in/yousef-dewidar-0884772a3/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yousef"/>
  </a>
- <a href="https://x.com/Yousefmd8" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
- </a>
  <a href="https://www.facebook.com/profile.php?id=100009483401222" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Yousef"  />
   </a> 
