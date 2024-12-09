@@ -1,38 +1,18 @@
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yousef+Dewidar!+❤️;" />
+</div>
 
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b>Yousef Dewidar</b>
-        </samp>
-</h3>
+<br>
 
-<p align="center"> 
-    <br>
-    「 I am a Computer Engineer and Mobile App Developer from <b>Egypt</b> 」
-    <br>
-  </samp>
-</p>
+## 🙋‍♂️ About Me:
 
-<p align="center">
- <a href="https://www.linkedin.com/in/yousef-dewidar-0884772a3/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yousef"/>
- </a>
- <a href="https://www.facebook.com/profile.php?id=100009483401222" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Yousef"  />
-  </a> 
-</p>
-<br />
+- 🔭 I am a  **Software Engineer 💻** | **Mobile Application Developer 📱**.
 
- # About me
- 
-<p>
+- 🌱 I’m currently learning **Advanced Flutter** & **Android-Kotlin**.
 
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: ymahmoud1213@gmail.com<br/><br/>
-
-</p>
-
-
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 ## 🌟 My Popular Apps
 | ![Al-Muslim Logo](https://github.com/user-attachments/assets/1e903410-36ee-4e2c-89bb-6f32485300c1) | ![Bookly Logo](https://github.com/user-attachments/assets/54ddff80-0606-43bc-8fcb-891794844650) | ![Nestify Logo](https://github.com/user-attachments/assets/14660725-f41d-451f-8ab9-3d906dbfec78) | ![Ai Assistant Logo](https://github.com/user-attachments/assets/2e24e384-b491-4dc8-afbd-a4c6c6896df8) | ![telecom-min](https://github.com/user-attachments/assets/d8058789-939a-4952-b9e2-9ee281680a38) |
@@ -40,19 +20,69 @@
 | **[Al-Muslim](https://github.com/YousefDewidar/Al_Muslim)** | **[Bookly](https://github.com/YousefDewidar/bookly)** | **[Nestify](https://github.com/YousefDewidar/Nestify)** | **[Ai Assistant](https://github.com/YousefDewidar/ai_assistant_app)** | **[Easy Recharge](https://github.com/YousefDewidar/EasyRecharge)** |
 
 
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 🚀 Languages and Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,python,kotlin,supabase,js" />
+    <img src="https://skillicons.dev/icons?i=github,git,androidstudio,vscode,figma,postman" /><br>
+</div>
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 📊 My Stats:
+
+<p align="center">
+    <a href="https://github.com/YousefDewidar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="YousefDewidar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YousefDewidar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+<a href="https://github.com/YousefDewidar/github-readme-stats"><img alt="YousefDewidar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YousefDewidar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/YousefDewidar/github-readme-stats"><img alt="YousefDewidar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefDewidar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 🤝 Connect With Me:
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/yousef-dewidar-0884772a3/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+  <a href="mailto:ymahmoud1213@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+     </a>
+    <a href="https://wa.me/201014502276" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+
+</div>
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 💜 Views and Followers:
+
+<a href="https://github.com/YousefDewidar/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=YousefDewidar">
+</a>
+<a href="https://github.com/YousefDewidar?tab=followers"><img src="https://img.shields.io/github/followers/YousefDewidar?label=Followers&style=social" alt="GitHub Badge"></a>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
+</h3>
+
 <br/>
-
-## Use To Code
-
-![Flutter](https://img.shields.io/badge/Flutter-092749?style=for-the-badge&logo=flutter&logoColor=06B6D4&labelColor=000000)
-![Dart](https://img.shields.io/badge/Dart-092749?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/FireBase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=FFCB2B&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
-<br/>
-<br/>
-
